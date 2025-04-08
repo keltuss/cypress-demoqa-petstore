@@ -1,0 +1,50 @@
+{
+  "textBox": {
+    "validUser": {
+      "name": "Victor",
+      "email": "Johnson@gmail.com",
+      "currentAddress": "Main St, 10",
+      "permanentAddress": "Old St, 10"
+    },
+    "invalidUser": {
+      "name": "Victor",
+      "email": "Johnson",
+      "currentAddress": "Main St, 10",
+      "permanentAddress": "Old St, 10"
+    }
+  },
+  "webTables": {
+    "validUser": {
+      "name": "Victor",
+      "lastName": "Johnson",
+      "email": "name@example.com",
+      "age": "55",
+      "salary": "25000",
+      "department": "Education"
+    },
+    "invalidUser": {
+      "name": "Victor",
+      "lastName": "Johnson",
+      "email": "name",
+      "age": "55",
+      "salary": "Twenty Five Thousands",
+      "department": "Education"
+    }
+  },
+  "practiceForm": {
+    "validFillTextFields": {
+      "firstName": "Victor",
+      "lastName": "Johnson",
+      "email": "vjohnson@example.com",
+      "mobile": "9876543210",
+      "address": "Main Street, 10"
+    },
+    "invalidFillTextFields": {
+      "firstName": "",
+      "lastName": "",
+      "email": "",
+      "mobile": "",
+      "address": ""
+    }
+  }
+}
