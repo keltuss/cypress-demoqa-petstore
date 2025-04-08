@@ -5,7 +5,9 @@ Here are collected various types of UI testing as well as API testing.
 It contains:
 
 Autotests using Page Object Pattern
+
 Autotests without using Page Object Pattern
+
 API Autotests for Pet Store
 
 Cypress is used to perform tests on interactions with web applications and ensure their functionality.
